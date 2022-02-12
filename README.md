@@ -1,6 +1,8 @@
 # 30-AUTHENTICATION-Secrets
 The Complete 2021 Web Development Bootcamp (Section 32)
 
+Description: Website that keeps secrets. It allows registered users to submit their secrets anonymously.
+
 Level 1 - Username and Password Only  
 &emsp;New packages: ejs, body-parser, express, mongoose  
 
