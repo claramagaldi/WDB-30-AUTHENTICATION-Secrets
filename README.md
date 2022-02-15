@@ -1,5 +1,5 @@
 # 30-AUTHENTICATION-Secrets
-The Complete 2021 Web Development Bootcamp (Section 32)
+The Complete Web Development Bootcamp
 
 Description: Website that keeps secrets. It allows registered users to submit their secrets anonymously.
 
